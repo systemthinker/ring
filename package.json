@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "marked": "^1.0.0",
+    "marked": "^4.0.10",
     "to-title-case": "^1.0.0"
   }
 }
